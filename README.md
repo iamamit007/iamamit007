@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamamit007
 - 👀 I’m interested in iot- embeded systems 
-- 🌱 I’m currently learning embedes systems / aurduino / ML algorithms
+- 🌱 I’m currently learning embeded systems / aurduino / ML algorithms
 - 💞️ I’m looking to collaborate on life changing products which can make a smile on human beings or animal or planet
 - 📫 How to reach me ... connectwidamit@gmail.com or https://www.linkedin.com/in/amit-saha-34b20b96/
 
